@@ -6,7 +6,6 @@
     font-size: 18px;
     padding: 0;
     margin: 0;
-    text-align: justify;
 }
 
 ul > li {
@@ -43,13 +42,25 @@ a {
     font-size: 22px;
 }
 
+h2 {
+    margin-bottom: 3rem;
+}
+
 @media (max-width: 431px) {
     * {
-        font-size: 15px;
+        font-size: 14px;
+    }
+
+    .box-right {
+        padding: 0 20px;
     }
 
     .box-left {
         height: 353px !important;
+    }
+
+    h2 {
+        margin-bottom: 1rem;
     }
 
 }
