@@ -60,6 +60,19 @@ h2 {
     width: 100%;
 }
 
+.badge-c {
+    background: #efefef;
+    color: #2e2e2e;
+    padding: 3px 10px;
+    align-items: center;
+    border: none;
+    font-size: 14px;
+    width: fit-content;
+    margin-bottom: 3px;
+    margin-right: 5px;
+    border-radius: 3px;
+}
+
 @media (max-width: 431px) {
     * {
         font-size: 14px;
