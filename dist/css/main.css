@@ -3,7 +3,7 @@
 * {
     font-family: Open Sans, Arial, sans-serif;
     color: #2e2e2e;
-    font-size: 18px;
+    font-size: 16px;
     padding: 0;
     margin: 0;
 }
@@ -29,8 +29,8 @@ a {
     text-decoration: underline;
 }
 
-.contact {
-
+p a i {
+    color: #005850;
 }
 
 .contact a {
